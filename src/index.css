@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+.cur {
+    @apply cursor-pointer
+}
+
+@tailwind utilities;
+
+/* .bgColor {
+    background-color: rgb(94, 94, 74);
+} */
