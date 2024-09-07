@@ -4,17 +4,18 @@ import { MdOutlineCancel } from "react-icons/md";
 import { IoPersonCircleSharp } from "react-icons/io5";
 import { BsGift } from "react-icons/bs";
 import { MdOutlineShoppingCart } from "react-icons/md";
+import { Link } from 'react-router-dom';
 
 function Navbar() {
     return (
-        <div className='bg-bgColor h-full w-full' >
+        <div className='bg-bgColor h-full w-full ' >
             <div className='' style={{ backgroundColor: "rgb(94, 94, 74 )" }}>
                 <p className='text-white text-lg py-3 text-center tracking-widest'>FREE SHIPPING ON ORDERS OVER $50</p>
             </div>
 
-            <nav className='flex justify-around mt-12  items-center box-border'>
+            <nav className='flex justify-around mt-12  items-center box-border py-3'>
                 <div className='flex gap-8'>
-                    <h3 className='cur'>SHOP</h3>
+                    <h3 className='cur'><Link to="/shop">SHOP</Link> </h3>
                     <h3 className='cur'>OUR STORY</h3>
                     <h3 className='cur'>BLOG</h3>
                     <h3 className='cur'>SALE</h3>
@@ -23,7 +24,7 @@ function Navbar() {
 
                 <div>
                     <div className='border-2 border-black'>
-                        <h2 className='py-1 px-7 text-2xl font-bold tracking-widest cur'>FRAIS</h2>
+                        <h2 className='py-1 px-7 text-2xl font-bold tracking-widest cur'><Link to="/">FRAIS</Link></h2>
                     </div>
                 </div>
 

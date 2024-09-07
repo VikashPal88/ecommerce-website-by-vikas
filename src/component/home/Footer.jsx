@@ -4,7 +4,7 @@ import { SiInstagram } from "react-icons/si";
 
 function Footer() {
     return (
-        <div className='w-full h-[60vh] '>
+        <div className='w-full '>
             <div className=' w-[80%] mx-auto flex justify-center mt-20 gap-20'>
                 {/* SECTION 1 */}
                 <div className=' w-[40%] text-center flex justify-start items-start p-5 '>

@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1001",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1002",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1003",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1004",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1005",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1006",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1007",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1008",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "1009",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "10010",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "10011",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "10012",
+            "price": 100
+        },
+        {
+            "title": "Pearl Powder",
+            "SKU": "0001",
+            "description": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
+            "image": "/src/assets/images/candle.webp",
+            "id": "10013",
+            "price": 100
+        }
+    ]
+}
