@@ -6,8 +6,8 @@ function Section1() {
             <div className='relative p-12'>
                 {/* Image Section */}
                 <img
-                    src=".\src\assets\images\pexels-vlada-karpovich-6755753-122.webp" alt="img"
-                    className='w-[1016px] h-[700px]'
+                    src="\src\assets\images\Final Group.png" alt="img"
+                    className='w-[1016px] h-[700px] bg-'
                 />
 
                 {/* Text on Top of Image */}

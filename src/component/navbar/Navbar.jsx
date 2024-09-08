@@ -19,7 +19,7 @@ function Navbar() {
                     <h3 className='cur'>OUR STORY</h3>
                     <h3 className='cur'>BLOG</h3>
                     <h3 className='cur'>SALE</h3>
-                    <h3 className='cur'>CONTACT</h3>
+                    <h3 className='cur'><Link to="/contact">CONTACT</Link></h3>
                 </div>
 
                 <div>
