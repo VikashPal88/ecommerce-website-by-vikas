@@ -8,6 +8,7 @@ import AllProducts from './component/products/component/AllProducts'
 import ProductDetailPage from './page/ProductDetailPage'
 import ProductDetail from './component/products/component/ProductDetail'
 import ContactPage from './page/ContactPage'
+import Login from './component/auth/component/Login'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -28,7 +29,11 @@ function App() {
     {
       path: "/contact",
       element: <ContactPage />
-    }
+    },
+    {
+      path: "/login",
+      element: <Login />
+    },
   ])
 
   return (

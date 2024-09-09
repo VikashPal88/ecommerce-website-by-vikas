@@ -40,7 +40,7 @@ function Navbar() {
                     </div>
                     <div className='flex items-center gap-5 text-2xl'>
                         <IoPersonCircleSharp className='cursor-pointer ' />
-                        <p className='cur text-lg text-customGray' >Log In</p>
+                        <p className='cur text-lg text-customGray' ><Link to="/login">Log In</Link></p>
                         <BsGift className='cur ' />
                         <MdOutlineShoppingCart className='cur' />
                     </div>
