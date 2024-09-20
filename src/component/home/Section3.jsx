@@ -167,7 +167,7 @@ function Section3() {
 
 
     return (
-        <div className='bg-section3 w-full h-[100vh] flex flex-col'>
+        <div className='bg-section3 w-full md:h-[110vh] h-[85vh] flex flex-col'>
             <h1 className='text-4xl tracking-widest  text-center m-10 bg-section3'>MOST POPULAR</h1>
 
 
@@ -181,14 +181,14 @@ function Section3() {
                         infinite={true}
                         keyBoardControl={true}
                         transitionDuration={500}
-                        removeArrowOnDeviceType={["tablet", "mobile"]}
+                        // removeArrowOnDeviceType={["tablet", "mobile"]}
                         customLeftArrow={<CustomLeftArrow />}
                         customRightArrow={<CustomRightArrow />}
 
 
                     >
                         {data.map((d, i) => (
-                            <div key={i} className='px-4'>
+                            <div key={i} className='px-4  py-1 '>
                                 <div className='relative'>
                                     <p className='absolute text-white bg-customGray px-3 tracking-widest py-1 top-2 left-2'>SALE</p>
                                     <img src={d.img} alt="img" />
@@ -197,7 +197,7 @@ function Section3() {
                                     <h3 className='text-lg font-light'>{d.title}</h3>
                                     <p><span className='line-through font-light'>{d.discount}</span><span className='px-2'>{d.price}</span></p>
                                 </div>
-                                <button className='mt-2 border border-black w-full py-2 text-gray-600 hover:bg-customGreeen hover:text-white hover:border-none duration-500'>Add to Cart</button>
+                                <button className='mt-2 border border-black w-full py-2  text-gray-600 hover:bg-customGreeen hover:text-white hover:border-none duration-500'>Add to Cart</button>
                             </div>
                         ))}
                     </Carousel>

@@ -6,12 +6,14 @@ import Section3 from '../component/home/Section3'
 import Section4 from '../component/home/Section4'
 import Section5 from '../component/home/Section5'
 import Footer from '../component/home/Footer'
+import BannerPage from './BannerPage'
 
 function Home() {
     return (
-        <div className=''>
+        <div className='w-full h-full '>
             <Navbar />
-            <Section1 />
+            {/* <Section1 /> */}
+            <BannerPage />
             <Section2 />
             <Section3 />
             <Section4 />
