@@ -5,19 +5,11 @@ function BannerPage() {
 
     const data = [
         {
-            img: "/src/assets/images/1.png",
+            img: "/src/assets/images/SaiSagar_banner1.png",
             title: "Lavender",
         },
         {
-            img: "/src/assets/images/2.png",
-            title: "Lavender",
-        },
-        {
-            img: "/src/assets/images/3.png",
-            title: "Lavender",
-        },
-        {
-            img: "/src/assets/images/4.png",
+            img: "/src/assets/images/SaiSagar_Banner2.png",
             title: "Lavender",
         },
         {
@@ -25,16 +17,9 @@ function BannerPage() {
             title: "Lavender",
         },
         {
-            img: "/src/assets/images/6.png",
+            img: "/src/assets/images/BG_DryStick.png",
             title: "Lavender",
         },
-        {
-            img: "/src/assets/images/7.png",
-            title: "Lavender",
-        }
-
-
-
     ]
 
     const responsive = {
@@ -59,11 +44,12 @@ function BannerPage() {
 
     return (
         <div>
-            <section className='w-full mt-10'>
+            <section className='w-full mt-2'>
                 <div className='w-[90%] mx-auto '>
                     <Carousel
-                        swipeable={false}
-                        draggable={false}
+                        swipeable={true}
+                        draggable={true}
+                        showDots={true}
                         responsive={responsive}
                         ssr={true} // means to render carousel on server-side.
                         infinite={true}
@@ -76,11 +62,11 @@ function BannerPage() {
 
                     >
                         {data.map((d, i) => (
-                            <div key={i} className='w-full h-full'>
+                            <div key={i} className='w-full h-[80vh] '>
                                 <img
                                     src={d.img}
                                     alt="img"
-                                    className='w-full md:h-[80vh] '
+                                    className='w-full'
                                 />
                             </div>
                         ))}
